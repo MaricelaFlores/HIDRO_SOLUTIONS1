@@ -1,5 +1,5 @@
-# HIDRO_SOLUTIONS1
-Repositorio para pruebas, Ignacio Yáñez Henríquez, edicion
+# HIDRO_SOLUTIONS
+índice de riego para la región de Coquimbo
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -9,9 +9,9 @@ Repositorio para pruebas, Ignacio Yáñez Henríquez, edicion
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+La dinámica de la agricultura y la optimización del uso del recurso hídrico, son importantes en el contexto actual, dado que el escenario a nivel mundial muestra cambios abruptos en cuanto al clima, lo cual motiva a la implementación de soluciones. Es por esto que Hidro Solutions busca calcular el índice de riego, mediante un análisis preciso de la relación entre el agua y la agricultura, para poder dar soluciones a la gestión del recurso. 
 ### Screenshot
-![image](https://github.com/iyanezUSACH/IYH/assets/98613250/58da2375-9a57-4f7c-a9c6-1104630eeb95)
+![image](C:\Users\aleja\Desktop\DAG\LABORATORIO\trabajo_final\modelo\PP.png)
 ## Technologies
 ***
 A list of technologies used within the project:
