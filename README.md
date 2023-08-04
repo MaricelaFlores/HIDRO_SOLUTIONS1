@@ -1,7 +1,8 @@
 # HIDRO_SOLUTIONS
-índice de riego para la región de Coquimbo
+
 ![Hidro Solutions](https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/logo2.jpg)
-https://github.com/MaricelaFlores/HIDRO_SOLUTIONS1/blob/main/logo2.jpg
+
+índice de riego para la región de Coquimbo
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
