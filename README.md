@@ -51,3 +51,5 @@ Answer of the third question with *italic words*.
 | Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
 |:---------------------------|:--------------------------:|--------------------------:|
 | text-align left            |   text-align center       | 
+
+© [Hidro Solutions] - Todos los derechos reservados.
